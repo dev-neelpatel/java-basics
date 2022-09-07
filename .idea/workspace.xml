@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6fad7de-b056-4dbd-aef5-513bf8c34f80" name="Changes" comment="second commit" />
+    <list default="true" id="c6fad7de-b056-4dbd-aef5-513bf8c34f80" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/function2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662529757833</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second commit">
+      <created>1662529782815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662529782815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
